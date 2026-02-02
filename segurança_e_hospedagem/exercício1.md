@@ -16,7 +16,7 @@ Associe as ações abaixo com **Request (Pedido)** ou **Response (Resposta)**:
 Na arquitetura Cliente/Servidor, os dados ficam guardados no Servidor. Pense no **Instagram**:
 
 1. Se você desinstalar o Instagram do seu celular e instalar em um celular novo, suas fotos somem ou continuam lá? continuam lá
-2. **Por que isso acontece?** Letra a
+2. **Por que isso acontece?** Letra b
 * (A) Porque as fotos ficam guardadas no seu celular (Cliente). 
 * (B) Porque as fotos ficam guardadas nos computadores do Instagram (Servidor).
 
