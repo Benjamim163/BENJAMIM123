@@ -15,9 +15,9 @@ Associe as ações abaixo com **Request (Pedido)** ou **Response (Resposta)**:
 
 Na arquitetura Cliente/Servidor, os dados ficam guardados no Servidor. Pense no **Instagram**:
 
-1. Se você desinstalar o Instagram do seu celular e instalar em um celular novo, suas fotos somem ou continuam lá?
-2. **Por que isso acontece?**
-* (A) Porque as fotos ficam guardadas no seu celular (Cliente).
+1. Se você desinstalar o Instagram do seu celular e instalar em um celular novo, suas fotos somem ou continuam lá? continuam lá
+2. **Por que isso acontece?** Letra a
+* (A) Porque as fotos ficam guardadas no seu celular (Cliente). 
 * (B) Porque as fotos ficam guardadas nos computadores do Instagram (Servidor).
 
 
@@ -33,8 +33,8 @@ Pense no seu script da **Calculadora em Node.js**:
 
 **Quem enviou a informação e quem processou o cálculo?**
 
-1. O **Teclado/Usuário** agiu como: (Cliente ou Servidor?)
-2. O **Código Node.js** que fez a conta agiu como: (Cliente ou Servidor?)
+1. O **Teclado/Usuário** agiu como: Cliente
+2. O **Código Node.js** que fez a conta agiu como: Servidor
 
 ---
 
